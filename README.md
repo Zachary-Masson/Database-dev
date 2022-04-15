@@ -1,15 +1,14 @@
 # <h1>📍 Database-Dev</h1>
-__________________
 - 🔧 DevNetwork#2103
 - 🔖 V 1.0.0
 
 ## 📚 Dependence Libs use
-__________________
+
 - 💎 NodeJs V 16.14.2 [(NodeJs)](https://nodejs.org/en/)
 - 💎 fs [(nodeFS)](https://discord.js.org/https://nodejs.org/api/fs.html)
 
 ## 💻 Use libs
-__________________
+
 #### import the file in your project, preferably, in libs folders
 
 ### Initialize
