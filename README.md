@@ -10,7 +10,7 @@ __________________
 
 ## 💻 Use libs
 __________________
-####import the file in your project, preferably, in libs folders
+#### import the file in your project, preferably, in libs folders
 
 ### Initialize
 ```js
